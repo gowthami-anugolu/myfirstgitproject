@@ -34,7 +34,7 @@ public class Verification {
 	
 		SoftAssert sa = new SoftAssert();
 //		Assert.assertTrue(title.contains("paytm"), " No Pay tm in the title");
-		sa.assertTrue(title.contains("Paytm"), " No Pay tm in the title");
+		sa.assertTrue(title.contains("paytm"), " No Pay tm in the title");
 		System.out.println("one");
 //		Assert.assertTrue(url.contains(".com"), " No .COM in the url");
 		sa.assertTrue(url.contains(".com"), " No .COM in the url");
