@@ -3,7 +3,7 @@
 
 	<test name="verificationTest">
 		<classes>			
-			<class name="personal.gitdemo.Verification"></class>
+			<class name="personal.gitdemo.example"></class>
 		</classes>	
 	</test>
 	
