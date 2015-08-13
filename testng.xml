@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="gitdemo">
+
+	<test name="verificationTest">
+		<classes>			
+			<class name="personal.gitdemo.Verification"></class>
+		</classes>	
+	</test>
+	
+</suite>
